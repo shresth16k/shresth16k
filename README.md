@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.png" alt="Profile Banner" width="100%" />
+</div>
+
 <h1 align="center">Hey 👋, I'm <a href="https://github.com/shresth16k" target="_blank">shresth16k</a></h1>
 
 <p align="center">
