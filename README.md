@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Advanced Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Tech & Coding**
-- 📫 How to reach me: **[Add your email/contact here]**
+- 📫 How to reach me: **shrestheducation1@gmail.com**
 
 ---
 
