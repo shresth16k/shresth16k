@@ -24,6 +24,15 @@
 
 ---
 
+### 🏆 Achievements
+
+| Event | Recognition |
+| :---: | :---: |
+| **UIDAI Data Hackathon 2026** | 🥇 Winner |
+| **Kiro Challenge** | 🏆 Excellence Award |
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -40,6 +49,7 @@
 
 ### 📊 GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shresth16k&show_icons=true&theme=radical" alt="shresth16k" />
 </p>
@@ -47,16 +57,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth16k&layout=compact&theme=radical" alt="shresth16k" />
 </p>
+-->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresth16k&theme=radical" alt="shresth16k" />
+  <img src="https://streak-stats.demolab.com/?user=shresth16k&theme=radical" alt="shresth16k" />
 </p>
 
 ---
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/shresth16k/shresth16k/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shresth16k/shresth16k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ### 🤝 Connect with Me
