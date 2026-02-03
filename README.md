@@ -24,15 +24,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UIDAI_Data_Hackathon_2026-🥇_Winner-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black" alt="UIDAI Hackathon Winner" />
-  <img src="https://img.shields.io/badge/Kiro_Challenge-🏆_Excellence_Award-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Kiro Challenge Excellence" />
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -49,7 +40,6 @@
 
 ### 📊 GitHub Stats
 
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shresth16k&show_icons=true&theme=radical" alt="shresth16k" />
 </p>
@@ -57,7 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth16k&layout=compact&theme=radical" alt="shresth16k" />
 </p>
--->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shresth16k&theme=radical" alt="shresth16k" />
