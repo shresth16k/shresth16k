@@ -26,10 +26,10 @@
 
 ### 🏆 Achievements
 
-| Event | Recognition |
-| :---: | :---: |
-| **UIDAI Data Hackathon 2026** | 🥇 Winner |
-| **Kiro Challenge** | 🏆 Excellence Award |
+<p align="center">
+  <img src="https://img.shields.io/badge/UIDAI_Data_Hackathon_2026-🥇_Winner-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black" alt="UIDAI Hackathon Winner" />
+  <img src="https://img.shields.io/badge/Kiro_Challenge-🏆_Excellence_Award-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Kiro Challenge Excellence" />
+</p>
 
 ---
 
