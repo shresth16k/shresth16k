@@ -38,22 +38,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shresth16k&theme=github_dark" alt="shresth16k" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shresth16k&theme=radical" alt="shresth16k" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
-### 🐍 Contribution Graph
+
+### 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shresth16k/shresth16k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shresth16k/shresth16k/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
+
+### 🤣 Daily Joke
+
+> **Q.** Hey officer! How did the hackers escape?
+>
+> **A.** No idea. They just ransomware. 🏃‍♂️💨
 
 ### 🤝 Connect with Me
 
